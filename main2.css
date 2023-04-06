@@ -1,0 +1,566 @@
+*body{
+	background-color: rgba(153, 55, 218, 0.692);
+}
+.main2{
+    width: 84.3rem;
+    height: 110vh;
+    
+    margin-left: 0rem;
+    margin-top: 36.99rem;
+	position: absolute;
+	background-color: rgba(153, 55, 218, 0.692);
+}
+.h1a{
+	color: crimson;
+	margin-left: 20rem;
+}
+.aries{
+	height: 220px;
+	width: 200px;
+	margin-left: 10px;
+	margin-top: 5rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.aries:hover{
+	background-color: rgba(233, 233, 233, 0);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+    
+}.aries img:hover{
+    transform: rotateY(180deg);
+}
+.aries img{
+	width: 100px;
+	height: 100px;
+	margin-top: 1rem;
+	margin-left: 2.5rem;
+}.aries h3{
+		font: 700;
+		color:lightseagreen;
+		margin-left: 1.5rem;
+		margin-top: 2.5rem
+}.anchor{
+    text-decoration: none;
+}.taurus img:hover{
+    transform: rotateY(180deg);
+}
+.taurus{
+	height: 220px;
+	width: 200px;
+	margin-left: 14.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgb(8, 224, 8);
+	border-radius: 10px;
+	border-radius: 30px 0 30px 0;
+}.taurus:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+	
+}
+.taurus img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 1rem;
+	margin-left: 50px;
+}.taurus h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 1.5rem;
+	margin-top: 2.5rem;
+}.taurus p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+.gemini img:hover{
+    transform: rotateY(180deg);
+}
+.gemini{
+	height: 220px;
+	width: 200px;
+	margin-left: 28.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.gemini:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}
+.gemini img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 18px;
+	margin-left: 40px;
+}.gemini h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2rem;
+	margin-top: 2.5rem;
+}.gemini p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+
+.cancer{
+	height: 220px;
+	width: 200px;
+	margin-left: 42.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.cancer:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}
+.cancer img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 1rem;
+	margin-left: 50px;
+
+}.cancer img:hover{
+    transform: rotateY(180deg);
+}
+.cancer h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2.8rem;
+	margin-top: 2.5rem;
+}.cancer h3 a{
+	color: aqua;
+}.cancer p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+.leo img:hover{
+    transform: rotateY(180deg);
+}
+.leo{
+	height: 220px;
+	width: 200px;
+	margin-left: 56.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.leo:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}
+.leo img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 1rem;
+	margin-left: 50px;
+}.leo h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2rem;
+	margin-top: 1.5rem;
+}.leo p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+.vigro img:hover{
+    transform: rotateY(180deg);
+}
+.vigro{
+	height: 220px;
+	width: 200px;
+	margin-left: 70.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.vigro:hover{
+	background-color: rgb(212, 183, 51);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}.vigro img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 1.2rem;
+	margin-left: 50px;
+}.vigro h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2rem;
+	margin-top: 2.5rem;
+}.vigro p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+.libra img:hover{
+    transform: rotateY(180deg);
+}
+.libra{
+	height: 220px;
+	width: 200px;
+	margin-left: 10px;
+	margin-top:4rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.libra:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}.libra img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 1.2rem;
+	margin-left: 50px;
+}.libra h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2rem;
+	margin-top: 2.5rem;
+}.libra p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+.scorpio img:hover{
+    transform: rotateY(180deg);
+}
+.scorpio{
+	height: 220px;
+	width: 200px;
+	margin-left: 14.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.scorpio:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}.scorpio img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 1.2rem;
+	margin-left: 50px;
+}.scorpio h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2rem;
+	margin-top: 2.5rem;
+}.scorpio p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+.sagittarius img:hover{
+    transform: rotateY(180deg);
+}
+.sagittarius{
+	height: 220px;
+	width: 200px;
+	margin-left: 28.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.sagittarius:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}.sagittarius img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 1.2rem;
+	margin-left: 50px;
+}.sagittarius h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2rem;
+	margin-top: 2.5rem;
+}.sagittarius p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+.capricorn img:hover{
+    transform: rotateY(180deg);
+}
+.capricorn{
+	height: 220px;
+	width: 200px;
+	margin-left: 42.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+}
+.capricorn:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}.capricorn img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 1.2rem;
+	margin-left: 50px;
+}.capricorn h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2rem;
+	margin-top: 2.5rem;
+}.capricorn p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+.aquarius img:hover{
+    transform: rotateY(180deg);
+}
+.aquarius{
+	height: 220px;
+	width: 200px;
+	margin-left: 56.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.aquarius:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}.aquarius img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+	margin-top: 1.2rem;
+	margin-left: 50px;
+}.aquarius h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2rem;
+	margin-top: 2.5rem;
+}.aquarius h3 a{
+	color: aqua;
+}
+.aquarius p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+.pisces img:hover{
+    transform: rotateY(180deg);
+}
+.pisces{
+	height: 220px;
+	width: 200px;
+	margin-left: 70.5rem;
+	margin-top:-14rem;
+	border: 2px solid rgba(0, 47, 255, 0.993);
+	border-radius: 30px 0 30px 0;
+}.pisces:hover{
+	background-color: rgb(252, 185, 41);
+	border-color: red;
+	border-radius: 0 30px 0 30px;
+}
+.pisces img
+{
+	transform: rotate(360deg);
+	width: 100px;
+	height: 100px;
+		margin-top: 1.2rem;
+	margin-left: 50px;
+}.pisces h3{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 2.8rem;
+	margin-top: 2.5rem;
+}.pisces p{
+	font: 700;
+	color:lightseagreen;
+	margin-left: 10px;
+}
+
+.AriesHoroscope{
+	margin-top: 204.5vh;
+	margin-left:0rem;
+	position: absolute;
+	background-color:  rgba(153, 55, 218, 0.692);
+}
+.AriesHoroscope header{
+	color: yellow;
+}
+.jpg{
+	width: 666px;
+	height: 487px;
+	margin-left: 20.5rem;
+	border-radius: 2rem;
+}.font{
+	margin-left: 20.5rem;
+	color: black;
+	font-size: 2rem;
+	padding-top: 2rem;
+}.para{
+	margin-left: 20.5rem;
+	color: black;
+	font-size: 1.5rem;
+
+}.hedr{
+	margin-left: 20.5rem;
+	color: rgb(51, 255, 0);
+	font-size: 1.5rem;
+	padding-top: 3rem;
+
+}
+.astroig{
+	width: 200px;
+	height: 220px;
+	margin-top: 22.8rem;
+	margin-left: 36rem;
+}
+/* Home*/
+
+.btn{
+    width: 180px;
+    height: 50px;
+    border: 2px solid rgb(50, 50, 50);
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+    overflow: hidden;
+    position: absolute;
+	background-color: black;
+	
+
+}.btn a{
+	text-decoration: none;
+}
+.btn p {
+    color: rgb(95, 95, 95);
+    letter-spacing: 0.2rem;
+    font-size: 1.2rem;
+    transition: all 0.4s;
+}
+.btn:hover p {
+    color: #fbff0e;
+}
+.btn span{
+    position: absolute;
+    transition: all 0.4s;
+}
+.btn span:nth-child(2),.btn span:nth-child(3){
+    width: 100%;
+    height: 2px;
+    background-color: #4400ff;
+}
+.btn span:nth-child(2){
+    top: 0;
+    left: 0;
+    transform: translateX(-100%);
+}
+.btn span:nth-child(3){
+    bottom: 0;
+    left: 0;
+    transform: translateX(100%);
+}
+
+.btn span:nth-child(4),.btn span:nth-child(5){
+    width: 2px;
+    height: 100%;
+    background-color: #ff5100;
+}
+.btn span:nth-child(4){
+    top: 0;
+    right: 0;
+    transform: translateY(-100%);
+}
+.btn span:nth-child(5){
+    bottom: 0;
+    left: 0;
+    transform: translateY(100%);
+}
+.btn:hover span{
+    transform: translate(0);
+}
+/* Home last*/
+
+.btn2{
+    width: 180px;
+    height: 50px;
+    border: 2px solid rgb(50, 50, 50);
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+    overflow: hidden;
+    position: absolute;
+	background-color: black;
+	left: -13rem;
+	top: 2rem;
+	
+
+}.btn2 a{
+	text-decoration: none;
+}
+.btn2 p {
+    color: rgb(95, 95, 95);
+    letter-spacing: 0.2rem;
+    font-size: 1.2rem;
+    transition: all 0.4s;
+}
+.btn2:hover p {
+    color: #fbff0e;
+}
+.btn2 span{
+    position: absolute;
+    transition: all 0.4s;
+}
+.btn2 span:nth-child(2),.btn2 span:nth-child(3){
+    width: 100%;
+    height: 2px;
+    background-color: #4400ff;
+}
+.btn2 span:nth-child(2){
+    top: 0;
+    left: 0;
+    transform: translateX(-100%);
+}
+.btn2 span:nth-child(3){
+    bottom: 0;
+    left: 0;
+    transform: translateX(100%);
+}
+
+.btn2 span:nth-child(4),.btn span:nth-child(5){
+    width: 2px;
+    height: 100%;
+    background-color: #ff5100;
+}
+.btn2 span:nth-child(4){
+    top: 0;
+    right: 0;
+    transform: translateY(-100%);
+}
+.btn2 span:nth-child(5){
+    bottom: 0;
+    left: 0;
+    transform: translateY(100%);
+}
+.btn2:hover span{
+    transform: translate(0);
+}
